@@ -22,7 +22,7 @@ section{
 .half-width img{
     width: 130%;
 }
-h1{
+.half-width h1{
     font-size: 50px;
     font-weight: bolder;
     color: white;
@@ -37,4 +37,18 @@ h1{
     color: white;
     padding: 10px;
     border-radius: 10px;
+}
+.button2{
+    text-decoration: none;
+    background-color: crimson;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.second{
+    background-image: url(images/demo-4.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position-x: right;
+    background-position-y: bottom;
 }
