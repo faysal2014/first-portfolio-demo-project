@@ -5,7 +5,7 @@ body{
 section{
     display: flex;
 }
-.top-banner{
+.first{
     background-image: url(images/demo-2.png);
     background-repeat: no-repeat;
     background-position-x:left;
